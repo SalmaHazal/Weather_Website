@@ -1,6 +1,5 @@
 # Weatherly 🌦️
 
-[Weatherly Banner](weatherly_banner.png)
 
 Welcome to Weatherly! Your one-stop destination for all your weather needs.
 
